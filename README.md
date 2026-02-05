@@ -1,6 +1,6 @@
 # Ida Bailey Allen's Orange and Date Cake
 ![Cake on table](images/orange_date_cake.png)
-## Orange and Date Cake
+## [Orange and Date Cake](https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3805nx1f&seq=25)
 
 ### Ingredients
 - 1/2 cup butter
